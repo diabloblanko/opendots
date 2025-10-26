@@ -1,2 +1,2 @@
 # opendots
-Dotfiles for XTerm, XMonad and neofetch.
+Dotfiles for ViM, BSPWM, SXHKD and Polybar
